@@ -1,0 +1,16 @@
+C:\Users\coltr\RiderProjects\Porto\Porto\bin\Debug\net5.0\Porto.exe
+C:\Users\coltr\RiderProjects\Porto\Porto\bin\Debug\net5.0\Porto.deps.json
+C:\Users\coltr\RiderProjects\Porto\Porto\bin\Debug\net5.0\Porto.runtimeconfig.json
+C:\Users\coltr\RiderProjects\Porto\Porto\bin\Debug\net5.0\Porto.runtimeconfig.dev.json
+C:\Users\coltr\RiderProjects\Porto\Porto\bin\Debug\net5.0\Porto.dll
+C:\Users\coltr\RiderProjects\Porto\Porto\bin\Debug\net5.0\ref\Porto.dll
+C:\Users\coltr\RiderProjects\Porto\Porto\bin\Debug\net5.0\Porto.pdb
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\Porto.csproj.AssemblyReference.cache
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\Porto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\Porto.AssemblyInfoInputs.cache
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\Porto.AssemblyInfo.cs
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\Porto.csproj.CoreCompileInputs.cache
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\Porto.dll
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\ref\Porto.dll
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\Porto.pdb
+C:\Users\coltr\RiderProjects\Porto\Porto\obj\Debug\net5.0\Porto.genruntimeconfig.cache
