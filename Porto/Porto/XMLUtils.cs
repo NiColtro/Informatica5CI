@@ -23,20 +23,21 @@ namespace Porto {
 
         public static Porto ReadXML() {
 
+            if (!File.Exists(@"Z:\porto.xml")) {
+                return new Porto();
+            }
+
             try {
                 StreamReader sr = new StreamReader(@"Z:\porto.xml");
                 XmlSerializer xmls = new XmlSerializer(typeof(Porto), new Type[]{ typeof(List<Vela>), typeof(List<Motore>) });
-
+                
                 Porto p = (Porto) xmls.Deserialize(sr);
                 sr.Close();
 
                 return p;
-
             } catch (Exception e) {
-                Console.WriteLine(e);
-                throw;
+                return new Porto();
             }
         }
     }
-
 }

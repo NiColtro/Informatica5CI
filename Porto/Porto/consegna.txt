@@ -1,0 +1,10 @@
+﻿Il porto di Varazze vuole automatizzare la gestione delle barche caratterizzate dalla LUNGHEZZA, CODICE DI IMMATRICOLAZIONE, NOME, NAZIONALITA.
+Le barche vengono classificate in: BARCHE A VELA (caratterizzata da ALTEZZA ALBERO, NUMERO DI ALBERI)
+e in BARCHE A MOTORE (caratterizzate da CAVALLI DEL MOTORE).
+
+Da implementare:
+1) Entrata di una barca in porto
+2) Uscita di una barca dal porto
+3) Visualizzazione delle barche presenti nel porto
+
+Tutti i dati devono essere salvati nel file XML.
