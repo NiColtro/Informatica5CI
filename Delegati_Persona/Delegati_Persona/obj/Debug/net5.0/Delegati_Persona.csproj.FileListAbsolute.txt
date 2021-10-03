@@ -1,0 +1,15 @@
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/bin/Debug/net5.0/Delegati_Persona.deps.json
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/bin/Debug/net5.0/Delegati_Persona.runtimeconfig.json
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/bin/Debug/net5.0/Delegati_Persona.runtimeconfig.dev.json
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/bin/Debug/net5.0/Delegati_Persona.dll
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/bin/Debug/net5.0/ref/Delegati_Persona.dll
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/bin/Debug/net5.0/Delegati_Persona.pdb
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/Delegati_Persona.csproj.AssemblyReference.cache
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/Delegati_Persona.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/Delegati_Persona.AssemblyInfoInputs.cache
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/Delegati_Persona.AssemblyInfo.cs
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/Delegati_Persona.csproj.CoreCompileInputs.cache
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/Delegati_Persona.dll
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/ref/Delegati_Persona.dll
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/Delegati_Persona.pdb
+/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/Debug/net5.0/Delegati_Persona.genruntimeconfig.cache
