@@ -21,7 +21,7 @@ namespace Delegati_Persona {
             return false;
         }
         
-        public static bool CheckAnziano(int eta) { // Check per Ragazzo
+        public static bool CheckAnziano(int eta) { // Check per Anziano
             if (eta >= 65)
                 return true;
             return false;
