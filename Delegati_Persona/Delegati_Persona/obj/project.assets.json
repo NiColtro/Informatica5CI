@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/Delegati_Persona.csproj",
+      "projectUniqueName": "/Users/ncoltro/Documents/GitHub/Informatica5CI/Delegati_Persona/Delegati_Persona/Delegati_Persona.csproj",
       "projectName": "Delegati_Persona",
-      "projectPath": "/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/Delegati_Persona.csproj",
+      "projectPath": "/Users/ncoltro/Documents/GitHub/Informatica5CI/Delegati_Persona/Delegati_Persona/Delegati_Persona.csproj",
       "packagesPath": "/Users/ncoltro/.nuget/packages/",
-      "outputPath": "/Users/ncoltro/RiderProjects/Delegati_Persona/Delegati_Persona/obj/",
+      "outputPath": "/Users/ncoltro/Documents/GitHub/Informatica5CI/Delegati_Persona/Delegati_Persona/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ncoltro/.nuget/NuGet/NuGet.Config"
