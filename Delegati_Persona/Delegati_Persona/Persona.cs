@@ -7,5 +7,9 @@ namespace Delegati_Persona {
             Nome = nome;
             Eta = eta;
         }
+
+        public override string ToString() {
+            return Nome + ", (" + Eta + ")";
+        }
     }
 }

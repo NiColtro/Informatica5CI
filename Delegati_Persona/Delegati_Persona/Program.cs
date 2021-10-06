@@ -40,6 +40,8 @@ namespace Delegati_Persona {
             persone.ForEach(x => 
                     Console.WriteLine(x.Nome + " (" + x.Eta + ")\t" + CheckEta(x, CheckRagazzo) + "\t" + CheckEta(x, CheckAdulto) + "\t" + CheckEta(x, CheckAnziano))
                     );
+            
+            persone.FindAll(x => CheckEta(x, CheckAnziano)).ForEach(Console.WriteLine); // Trovo tutti gli Anziani
         }
     }
 }
