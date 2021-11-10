@@ -1,0 +1,39 @@
+﻿<Window x:Class="WPF_CodedGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_CodedGrid"
+        mc:Ignorable="d"
+        Title="CodedGrid" Height="900" Width="800">
+    <Grid Name="mainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="364*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0"> <!-- Input grid -->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="400*"/>
+                <ColumnDefinition Width="400*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="25"/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Content="Numero righe:"/>
+            <Label Grid.Row="0" Grid.Column="1" Content="Numero colonne:"/>
+
+            <TextBox Grid.Row="1" Grid.Column="0" Name="rowNum"/>
+            <TextBox Grid.Row="1" Grid.Column="1" Name="colNum"/>
+
+            <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Content="Genera griglia" Click="ButtonHandler"/>
+        </Grid>
+
+        <!-- Here goes dynGrid -->
+        
+    </Grid>
+
+</Window>
