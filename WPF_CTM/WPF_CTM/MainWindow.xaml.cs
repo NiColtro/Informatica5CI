@@ -67,7 +67,7 @@ namespace WPF_CTM {
             Clicks.Content = "Clicks: " + clicks;
 
             if (s == lastButton) { // Clicked button was the correct one
-                updateTimer(timer.Interval.TotalMilliseconds * 0.85); // Decrese change interval
+                updateTimer(timer.Interval.TotalMilliseconds * 0.70); // Decrese change interval
                 validClicks.Add(s); // Add current button to valid list
                 s.Background = Brushes.Green;
                 Points.Content = "Punti: " + validClicks.Count;
