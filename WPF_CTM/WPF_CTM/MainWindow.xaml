@@ -24,18 +24,18 @@
         <Label Content="Catch the Minion!" 
                Grid.ColumnSpan="2"
                HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"
-               FontSize="30" Foreground="White" Background="Gray"
+               FontSize="30" Foreground="White" Background="#f7af7c"
                Grid.Column="0" Grid.Row="0"></Label>
 
         <Label Name="Points" Content="Punti: 0"
                HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"
-               FontSize="30" Foreground="White" Background="Gray"
+               FontSize="30" Foreground="White" Background="#f79b59"
                Grid.Row="1" Grid.Column="0"
             />
         
         <Label Name="Clicks" Content="Clicks: 0"
                HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"
-               FontSize="30" Foreground="White" Background="Gray"
+               FontSize="30" Foreground="White" Background="#f79b59"
                Grid.Row="1" Grid.Column="1"
             />
 
@@ -55,7 +55,7 @@
         </Grid>
 
         <!-- Win Message -->
-        <Label Name="WinMsg" Content="HAI VINTO!" Background="Green" Foreground="White"
+        <Label Name="WinMsg" Content="HAI VINTO!" Background="#5fd972" Foreground="White"
                    HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"
                    VerticalAlignment="Stretch" VerticalContentAlignment="Center"
                    FontSize="80"
