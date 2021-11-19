@@ -1,4 +1,4 @@
-﻿<Window x:Class="WPF_CTM.MainWindow"
+<Window x:Class="WPF_CTM.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -6,12 +6,36 @@
         xmlns:local="clr-namespace:WPF_CTM"
         mc:Ignorable="d"
         Title="Catch the Minion!" Height="900" Width="800">
+
+    <Window.Resources>
+        <ControlTemplate x:Key="NoMouseOverButtonTemplate" 
+                 TargetType="Button">
+            <Border Background="{TemplateBinding Background}"
+          BorderBrush="{TemplateBinding BorderBrush}"
+          BorderThickness="{TemplateBinding BorderThickness}">
+                <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                      VerticalAlignment="{TemplateBinding VerticalContentAlignment}" />
+            </Border>
+
+            <!-- Add only required visual state triggers -->
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsEnabled"
+             Value="False">
+                    <Setter Property="Background"
+              Value="{x:Static SystemColors.ControlLightBrush}" />
+                    <Setter Property="Foreground"
+              Value="{x:Static SystemColors.ControlLightBrush}" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+
     <Grid Name="mainGrid">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"></ColumnDefinition>
             <ColumnDefinition Width="1*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        
+
         <Grid.RowDefinitions>
             <!-- Game title -->
             <RowDefinition Height="50"></RowDefinition>
@@ -32,7 +56,7 @@
                FontSize="30" Foreground="White" Background="#f79b59"
                Grid.Row="1" Grid.Column="0"
             />
-        
+
         <Label Name="Clicks" Content="Clicks: 0"
                HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"
                FontSize="30" Foreground="White" Background="#f79b59"
