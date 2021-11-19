@@ -17,7 +17,7 @@ namespace WPF_CTM
         Button lastButton; // Last clicked button
         List<Button> validClicks = new List<Button>(); // Valid clicks button list
 
-        BitmapImage minionIcon = new BitmapImage(new Uri(@"..\..\assets\minion.png", UriKind.Relative));
+        BitmapImage minionIcon = new BitmapImage(new Uri(@"..\..\..\assets\minion.png", UriKind.Relative));
 
         private void timerSetup()
         {
