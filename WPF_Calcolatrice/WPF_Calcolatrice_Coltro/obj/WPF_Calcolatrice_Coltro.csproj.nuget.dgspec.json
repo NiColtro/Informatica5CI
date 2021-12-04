@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coltr.DESKTOP-S1MR7M2\\source\\repos\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro.csproj": {}
+    "Z:\\Informatica5CI\\WPF_Calcolatrice\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coltr.DESKTOP-S1MR7M2\\source\\repos\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro.csproj": {
+    "Z:\\Informatica5CI\\WPF_Calcolatrice\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coltr.DESKTOP-S1MR7M2\\source\\repos\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro.csproj",
+        "projectUniqueName": "Z:\\Informatica5CI\\WPF_Calcolatrice\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro.csproj",
         "projectName": "WPF_Calcolatrice_Coltro",
-        "projectPath": "C:\\Users\\coltr.DESKTOP-S1MR7M2\\source\\repos\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro.csproj",
+        "projectPath": "Z:\\Informatica5CI\\WPF_Calcolatrice\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro.csproj",
         "packagesPath": "C:\\Users\\coltr.DESKTOP-S1MR7M2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coltr.DESKTOP-S1MR7M2\\source\\repos\\WPF_Calcolatrice_Coltro\\WPF_Calcolatrice_Coltro\\obj\\",
+        "outputPath": "Z:\\Informatica5CI\\WPF_Calcolatrice\\WPF_Calcolatrice_Coltro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\coltr.DESKTOP-S1MR7M2\\AppData\\Roaming\\NuGet\\NuGet.Config",
