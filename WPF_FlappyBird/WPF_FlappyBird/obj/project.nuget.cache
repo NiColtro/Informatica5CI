@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FV1383yJ36XEQF6fuANeAqZxfC/4JUTNyTfDKIK5IAjc0rXKXNZgt6dkUZDIOqTLX/VUiwaeZ6MdFFqffyuLkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coltr.DESKTOP-S1MR7M2\\source\\repos\\WPF_FlappyBird\\WPF_FlappyBird\\WPF_FlappyBird.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coltr.DESKTOP-S1MR7M2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

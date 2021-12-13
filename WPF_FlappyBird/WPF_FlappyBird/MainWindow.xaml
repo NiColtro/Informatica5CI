@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF_FlappyBird.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_FlappyBird"
+        mc:Ignorable="d"
+        Title="FlappyBird by nColtro" Height="450" Width="800"
+        KeyDown="KeydownHandler"
+        KeyUp="KeyupHandler"
+        Name="Win">
+    <Grid Name="MainGrid">
+        <Label Content="FlappyBird PoC by nColtro.dev"></Label>
+        <Canvas x:Name="PlayArea">
+            <Ellipse x:Name="Bird" Width="40" Height="40" Fill="Gray" Canvas.Left="112" Canvas.Top="197"></Ellipse>
+        </Canvas>
+    </Grid>
+</Window>
