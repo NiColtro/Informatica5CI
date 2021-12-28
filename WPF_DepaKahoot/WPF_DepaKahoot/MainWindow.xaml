@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPF_DepaKahoot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_DepaKahoot"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="50">
+            <TextBox x:Name="Nickname" Text="Nickname"></TextBox>
+
+            <GroupBox>
+                <StackPanel Orientation="Vertical" Name="Categories">
+                    <CheckBox Content="Cultura Generale" x:Name="CulturaGenerale"></CheckBox>
+                    <CheckBox Content="Musica" x:Name="Musica"></CheckBox>
+                    <CheckBox Content="Cinema" x:Name="Cinema"></CheckBox>
+                </StackPanel>
+            </GroupBox>
+
+            <Button x:Name="StartButton" Content="Start" Click="StartHandler"></Button>
+            <Button x:Name="ExitButton" Content="Exit" Click="ExitHandler"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

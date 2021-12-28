@@ -1,0 +1,15 @@
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\bin\Debug\net6.0-windows\WPF_MixIsDown.exe
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\bin\Debug\net6.0-windows\WPF_MixIsDown.deps.json
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\bin\Debug\net6.0-windows\WPF_MixIsDown.runtimeconfig.json
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\bin\Debug\net6.0-windows\WPF_MixIsDown.dll
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\bin\Debug\net6.0-windows\ref\WPF_MixIsDown.dll
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\bin\Debug\net6.0-windows\WPF_MixIsDown.pdb
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\WPF_MixIsDown.csproj.AssemblyReference.cache
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\WPF_MixIsDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\WPF_MixIsDown.AssemblyInfoInputs.cache
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\WPF_MixIsDown.AssemblyInfo.cs
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\WPF_MixIsDown.csproj.CoreCompileInputs.cache
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\WPF_MixIsDown.dll
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\ref\WPF_MixIsDown.dll
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\WPF_MixIsDown.pdb
+C:\Users\coltr.DESKTOP-S1MR7M2\source\repos\WPF_MixIsDown\WPF_MixIsDown\obj\Debug\net6.0-windows\WPF_MixIsDown.genruntimeconfig.cache
