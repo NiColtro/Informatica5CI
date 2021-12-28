@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de342173-ca37-4883-b461-2903bed65c80": {
+      "ProjectGuid": "de342173-ca37-4883-b461-2903bed65c80",
+      "DisplayName": "WPF_Controls",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
