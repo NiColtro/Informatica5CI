@@ -23,3 +23,4 @@ Z:\Informatica5CI\WPF_CTM\WPF_CTM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netco
 Z:\Informatica5CI\WPF_CTM\WPF_CTM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
 Z:\Informatica5CI\WPF_CTM\WPF_CTM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
 Z:\Informatica5CI\WPF_CTM\WPF_CTM\obj\Debug\netcoreapp3.1\WPF_CTM.csproj.CopyComplete
+Z:\Informatica5CI\WPF_CTM\WPF_CTM\obj\Debug\netcoreapp3.1\WPF_CTM.GeneratedMSBuildEditorConfig.editorconfig

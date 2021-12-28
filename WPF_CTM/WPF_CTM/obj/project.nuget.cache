@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XUXlYjsanQVDZh4Pkd7wehIbpb+qcZE9Hv+bnLbMbbI7iFfgwf+0VsUQ4prr5r/3fAZzC+ZduoODBweV4vc5mw==",
+  "dgSpecHash": "WuA9TRgSNbfID9sFp+zQeLBnrviBsLI9GqsmUuzQEj8tzCkggvuWZcuf44CvnUGBznwZ8sRJbuhGB7PoUfW/bw==",
   "success": true,
   "projectFilePath": "Z:\\Informatica5CI\\WPF_CTM\\WPF_CTM\\WPF_CTM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\coltr.DESKTOP-S1MR7M2\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\coltr.DESKTOP-S1MR7M2\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+    "C:\\Users\\coltr.DESKTOP-S1MR7M2\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\coltr.DESKTOP-S1MR7M2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
   "logs": []
 }
