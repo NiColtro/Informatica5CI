@@ -9,12 +9,12 @@
     if ($_REQUEST['fd'] == '') // Check input firstDate
         $fd = "SELECT MIN(dataProiezione) FROM proiezioni";
     else
-        $fd = $_REQUEST['fd'];
+        $fd = "'" . $_REQUEST['fd'] . "'";
 
     if ($_REQUEST['ld'] == '') // Check input lastDate
         $ld = "SELECT MAX(dataProiezione) FROM proiezioni";
     else
-        $ld = $_REQUEST['ld'];
+        $ld = "'" . $_REQUEST['ld'] . "'";
     
     // DB Con
     $db = new PDO('mysql:host=school.ncoltro.dev;dbname=5ci_ncoltro_2', 'ncoltro_php', 'dmLyOFbbfUgq5D3L');
